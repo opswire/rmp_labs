@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <array name="recipes">-->
+        <string-array name="recipes_name">
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+            <item>6</item>
+            <item>7</item>
+            <item>8</item>
+            <item>9</item>
+            <item>10</item>
+            <item>11</item>
+            <item>12</item>
+            <item>13</item>
+            <item>14</item>
+            <item>15</item>
+            <item>16</item>
+            <item>17</item>
+            <item>18</item>
+            <item>19</item>
+            <item>20</item>
+            <item>21</item>
+            <item>22</item>
+            <item>23</item>
+            <item>24</item>
+            <item>25</item>
+        </string-array>
+        <string-array name="recipes_text">
+            <item>1 text</item>
+            <item>2 text</item>
+            <item>3 text</item>
+            <item>4 text</item>
+            <item>5 text</item>
+            <item>6 text</item>
+            <item>7 text</item>
+            <item>8 text</item>
+            <item>9 text</item>
+            <item>10 text</item>
+            <item>11 text</item>
+            <item>12 text</item>
+            <item>13 text</item>
+            <item>14 text</item>
+            <item>15 text</item>
+            <item>16 text</item>
+            <item>17 text</item>
+            <item>18 text</item>
+            <item>19 text</item>
+            <item>20 text</item>
+            <item>21 text</item>
+            <item>22 text</item>
+            <item>23 text</item>
+            <item>24 text</item>
+            <item>25 text</item>
+        </string-array>
+<!--    </array>-->
+</resources>
